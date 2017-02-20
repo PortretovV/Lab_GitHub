@@ -18,7 +18,7 @@ public class Main {
             }
         }
         else {
-            System.out.println("Виталь, ну ты и умный");
+            System.out.println("Виталь, ну ты и красавчик");
         }
         System.out.println(vitaliy.toString());
     }
