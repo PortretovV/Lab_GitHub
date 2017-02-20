@@ -48,7 +48,7 @@ public class Vitaliy {
     @Override
     public String toString() {
         return "Vitaliy{" +
-                "firstName='" + firstName + '\'' +
+                "firs='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", age=" + age +
                 ", iq=" + iq +

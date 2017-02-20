@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Vitaliy vitaliy = new Vitaliy("Виталий", "Портретов", 20, 60);
+        Vitaliy vitaliy = new Vitaliy("Виталик", "Вершинин", 20, 111);
         System.out.println(vitaliy.toString());
         if(vitaliy.getIq() < 110) {
             System.out.println("Виталь, давай почитаем книги");
@@ -18,7 +18,7 @@ public class Main {
             }
         }
         else {
-            System.out.println("Виталь, ну ты и умный");
+            System.out.println("Виталь, ну ты и красавчик");
         }
         System.out.println(vitaliy.toString());
     }
